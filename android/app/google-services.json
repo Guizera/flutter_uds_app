@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418852432768",
+    "firebase_url": "https://uds-db.firebaseio.com",
+    "project_id": "uds-db",
+    "storage_bucket": "uds-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418852432768:android:29069d318d5b3a3ba0af65",
+        "android_client_info": {
+          "package_name": "guilhermedev.com.flutter_uds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418852432768-8noa01hljds2jngtb78o8c5cioo856h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvkZXoMGciXd44le2h4O_dZ9ifEXgww9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418852432768-8noa01hljds2jngtb78o8c5cioo856h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
