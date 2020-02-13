@@ -5,42 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d2663-355e-4517-bead-c42ffaf3e41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/guilhermedev/com/flutter_uds_app/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/login-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/logo-branco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/components/button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/components/dialogWaiting.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/model/guidelines.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/model/users.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/guidelines_closes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/guidelines_open.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/home_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/login_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/profile.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/root_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/services/authService.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/dialogWaiting.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/dialogWaiting.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/guidelines.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/guidelines.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/users.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/users.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/guidelines_closes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/guidelines_closes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/guidelines_open.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/guidelines_open.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/root_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/root_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/authService.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/authService.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -85,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -199,6 +179,23 @@
               <item name="flutter_uds_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_uds_app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flutter_uds_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_uds_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_uds_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_uds_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_uds_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_uds_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -247,9 +244,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2561" y="23" width="2560" height="1008" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13860206" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13860206" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -259,13 +255,13 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.21443737" />
-      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49483716" visible="true" weight="0.26091826" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49483716" weight="0.26091826" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.32922733" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.4980143" weight="0.3919373" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4992057" weight="0.34714445" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50516284" side_tool="true" visible="true" weight="0.26091826" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" sideWeight="0.4988086" visible="true" weight="0.34714445" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50119144" side_tool="true" visible="true" weight="0.34714445" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928468" weight="0.41234222" />
@@ -587,10 +583,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flutter_uds_app.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
